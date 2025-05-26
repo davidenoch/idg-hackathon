@@ -1,0 +1,2102 @@
+[
+  {
+    "x": 1.0,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.19
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 1.0
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.07
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.15
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.25
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.0
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": -0.03
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.63
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": -0.0
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.01
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.13
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": -0.01
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.05
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.05
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.13
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.2
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.01
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.06
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.03
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.01
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "TOTAL_CONTRACTS_INTERACTED_WITH",
+    "value": 0.0
+  },
+  {
+    "x": 1.0,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.53
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.07
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "TOTAL_LP_POOLS",
+    "value": 1.0
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.17
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.36
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.13
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.13
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.21
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.03
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.18
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.22
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.35
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.44
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.48
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.29
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.35
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.47
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.47
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.07
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.03
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "TOTAL_LP_POOLS",
+    "value": 0.02
+  },
+  {
+    "x": 1.0,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.29
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.15
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.17
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 1.0
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.74
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.05
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": -0.07
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.11
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.03
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.04
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.28
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.18
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.18
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.19
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.22
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.37
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.18
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.17
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.01
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.01
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "LENDING_DEPOSIT_TX_COUNT",
+    "value": 0.0
+  },
+  {
+    "x": 1.0,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.47
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.25
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.36
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.74
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "BORROW_TX_COUNT",
+    "value": 1.0
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.15
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "BORROW_TX_COUNT",
+    "value": -0.47
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.14
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.07
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.17
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.4
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.41
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.44
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.44
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.43
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.48
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.4
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.44
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.01
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "BORROW_TX_COUNT",
+    "value": -0.04
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "BORROW_TX_COUNT",
+    "value": 0.0
+  },
+  {
+    "x": 1.0,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.12
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.0
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.13
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.05
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.15
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "AGE_IN_WEEKS",
+    "value": 1.0
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.17
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "AGE_IN_WEEKS",
+    "value": -0.04
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "AGE_IN_WEEKS",
+    "value": -0.0
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.08
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.24
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.04
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.26
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.19
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.23
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.35
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.19
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.13
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "AGE_IN_WEEKS",
+    "value": -0.02
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "AGE_IN_WEEKS",
+    "value": -0.0
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "AGE_IN_WEEKS",
+    "value": 0.03
+  },
+  {
+    "x": 1.0,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": 0.13
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": -0.03
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": 0.13
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": -0.07
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": -0.47
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": 0.17
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": 1.0
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": -0.05
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": -0.02
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": 0.1
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": -0.09
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": 0.11
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": 0.04
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": -0.03
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": 0.07
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": 0.15
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": 0.01
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": 0.01
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": 0.03
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": -0.04
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "GOVERNANCE_VOTE_COUNT",
+    "value": -0.02
+  },
+  {
+    "x": 1.0,
+    "y": "TX_PER_WK",
+    "value": 0.17
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "TX_PER_WK",
+    "value": 0.63
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "TX_PER_WK",
+    "value": 0.21
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "TX_PER_WK",
+    "value": 0.11
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "TX_PER_WK",
+    "value": 0.14
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "TX_PER_WK",
+    "value": -0.04
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "TX_PER_WK",
+    "value": -0.05
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "TX_PER_WK",
+    "value": 1.0
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "TX_PER_WK",
+    "value": 0.0
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "TX_PER_WK",
+    "value": 0.04
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "TX_PER_WK",
+    "value": 0.07
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "TX_PER_WK",
+    "value": -0.05
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "TX_PER_WK",
+    "value": 0.17
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "TX_PER_WK",
+    "value": 0.15
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "TX_PER_WK",
+    "value": 0.17
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "TX_PER_WK",
+    "value": 0.18
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "TX_PER_WK",
+    "value": 0.06
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "TX_PER_WK",
+    "value": 0.14
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "TX_PER_WK",
+    "value": 0.06
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "TX_PER_WK",
+    "value": 0.01
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "TX_PER_WK",
+    "value": 0.01
+  },
+  {
+    "x": 1.0,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.03
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "AVG_TX_VALUE_USD",
+    "value": -0.0
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.03
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.03
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.07
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "AVG_TX_VALUE_USD",
+    "value": -0.0
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "AVG_TX_VALUE_USD",
+    "value": -0.02
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.0
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 1.0
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.04
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.24
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.14
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.07
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.17
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.33
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.33
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.15
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.09
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.21
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "AVG_TX_VALUE_USD",
+    "value": -0.02
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "AVG_TX_VALUE_USD",
+    "value": 0.21
+  },
+  {
+    "x": 1.0,
+    "y": "TOTAL_STAKED",
+    "value": 0.16
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "TOTAL_STAKED",
+    "value": 0.01
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "TOTAL_STAKED",
+    "value": 0.18
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "TOTAL_STAKED",
+    "value": 0.04
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "TOTAL_STAKED",
+    "value": 0.17
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "TOTAL_STAKED",
+    "value": 0.08
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "TOTAL_STAKED",
+    "value": 0.1
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "TOTAL_STAKED",
+    "value": 0.04
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "TOTAL_STAKED",
+    "value": 0.04
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "TOTAL_STAKED",
+    "value": 1.0
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "TOTAL_STAKED",
+    "value": 0.46
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "TOTAL_STAKED",
+    "value": 0.05
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "TOTAL_STAKED",
+    "value": 0.23
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "TOTAL_STAKED",
+    "value": 0.13
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "TOTAL_STAKED",
+    "value": 0.03
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "TOTAL_STAKED",
+    "value": 0.04
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "TOTAL_STAKED",
+    "value": 0.17
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "TOTAL_STAKED",
+    "value": 0.2
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "TOTAL_STAKED",
+    "value": -0.0
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "TOTAL_STAKED",
+    "value": 0.01
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "TOTAL_STAKED",
+    "value": -0.0
+  },
+  {
+    "x": 1.0,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.24
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.13
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.22
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.28
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.4
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.24
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": -0.09
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.07
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.24
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.46
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 1.0
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.28
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.45
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.44
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.55
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.61
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.27
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.46
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": -0.03
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.03
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "TOTAL_STAKED_ALLTIME",
+    "value": 0.05
+  },
+  {
+    "x": 1.0,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.18
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": -0.01
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.35
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.18
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.41
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.04
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.11
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": -0.05
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.14
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.05
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.28
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 1.0
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.01
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.54
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.72
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.88
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.73
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.25
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.01
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.02
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "TOTAL_STABLECOINS_SENT",
+    "value": 0.03
+  },
+  {
+    "x": 1.0,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.33
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.05
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.44
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.18
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.44
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.26
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.04
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.17
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.07
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.23
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.45
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.01
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 1.0
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.87
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.82
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.92
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.58
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.7
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.01
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.03
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "TOTAL_SENT_TO_CONTRACTS",
+    "value": 0.03
+  },
+  {
+    "x": 1.0,
+    "y": "TOTAL_LP_USD",
+    "value": 0.4
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "TOTAL_LP_USD",
+    "value": 0.05
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "TOTAL_LP_USD",
+    "value": 0.48
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "TOTAL_LP_USD",
+    "value": 0.19
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "TOTAL_LP_USD",
+    "value": 0.44
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "TOTAL_LP_USD",
+    "value": 0.19
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "TOTAL_LP_USD",
+    "value": -0.03
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "TOTAL_LP_USD",
+    "value": 0.15
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "TOTAL_LP_USD",
+    "value": 0.17
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "TOTAL_LP_USD",
+    "value": 0.13
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "TOTAL_LP_USD",
+    "value": 0.44
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "TOTAL_LP_USD",
+    "value": 0.54
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "TOTAL_LP_USD",
+    "value": 0.87
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "TOTAL_LP_USD",
+    "value": 1.0
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "TOTAL_LP_USD",
+    "value": 0.69
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "TOTAL_LP_USD",
+    "value": 0.79
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "TOTAL_LP_USD",
+    "value": 0.65
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "TOTAL_LP_USD",
+    "value": 0.78
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "TOTAL_LP_USD",
+    "value": 0.04
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "TOTAL_LP_USD",
+    "value": 0.07
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "TOTAL_LP_USD",
+    "value": 0.04
+  },
+  {
+    "x": 1.0,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.27
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.13
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.29
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.22
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.43
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.23
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.07
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.17
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.33
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.03
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.55
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.72
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.82
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.69
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 1.0
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.96
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.56
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.45
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.03
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": 0.1
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "LENDING_DEPOSIT_VOLUME",
+    "value": -0.09
+  },
+  {
+    "x": 1.0,
+    "y": "BORROW_VOLUME",
+    "value": 0.37
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "BORROW_VOLUME",
+    "value": 0.2
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "BORROW_VOLUME",
+    "value": 0.35
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "BORROW_VOLUME",
+    "value": 0.37
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "BORROW_VOLUME",
+    "value": 0.48
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "BORROW_VOLUME",
+    "value": 0.35
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "BORROW_VOLUME",
+    "value": 0.15
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "BORROW_VOLUME",
+    "value": 0.18
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "BORROW_VOLUME",
+    "value": 0.33
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "BORROW_VOLUME",
+    "value": 0.04
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "BORROW_VOLUME",
+    "value": 0.61
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "BORROW_VOLUME",
+    "value": 0.88
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "BORROW_VOLUME",
+    "value": 0.92
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "BORROW_VOLUME",
+    "value": 0.79
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "BORROW_VOLUME",
+    "value": 0.96
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "BORROW_VOLUME",
+    "value": 1.0
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "BORROW_VOLUME",
+    "value": 0.68
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "BORROW_VOLUME",
+    "value": 0.66
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "BORROW_VOLUME",
+    "value": 0.03
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "BORROW_VOLUME",
+    "value": -0.06
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "BORROW_VOLUME",
+    "value": -0.11
+  },
+  {
+    "x": 1.0,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.3
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.01
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.47
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.18
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.4
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.19
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.01
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.06
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.15
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.17
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.27
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.73
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.58
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.65
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.56
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.68
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 1.0
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.31
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.04
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.05
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "TOTAL_STABLECOIN_SWAPPED_OUT",
+    "value": 0.04
+  },
+  {
+    "x": 1.0,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.39
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.06
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.47
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.17
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.44
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.13
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.01
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.14
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.09
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.2
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.46
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.25
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.7
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.78
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.45
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.66
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.31
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 1.0
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.03
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.05
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "TOTAL_NON_STABLECOIN_SWAPPED_OUT",
+    "value": 0.04
+  },
+  {
+    "x": 1.0,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.01
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.03
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.07
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.01
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.01
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "TOTAL_FLOW_USD",
+    "value": -0.02
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.03
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.06
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.21
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "TOTAL_FLOW_USD",
+    "value": -0.0
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "TOTAL_FLOW_USD",
+    "value": -0.03
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.01
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.01
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.04
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.03
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.03
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.04
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.03
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "TOTAL_FLOW_USD",
+    "value": 1.0
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.17
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "TOTAL_FLOW_USD",
+    "value": 0.01
+  },
+  {
+    "x": 1.0,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 0.01
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 0.01
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 0.03
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 0.01
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": -0.04
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": -0.0
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": -0.04
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 0.01
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": -0.02
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 0.01
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 0.03
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 0.02
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 0.03
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 0.07
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 0.1
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": -0.06
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 0.05
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 0.05
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 0.17
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 1.0
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "TOTAL_FLOW_STABLECOINS",
+    "value": 0.04
+  },
+  {
+    "x": 1.0,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.01
+  },
+  {
+    "x": 0.1915459349786628,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.0
+  },
+  {
+    "x": 0.5250626847470453,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.02
+  },
+  {
+    "x": 0.2882413567524476,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.0
+  },
+  {
+    "x": 0.4705649953100945,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.0
+  },
+  {
+    "x": 0.1206153058591708,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.03
+  },
+  {
+    "x": 0.1276809957271983,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": -0.02
+  },
+  {
+    "x": 0.1699086492455654,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.01
+  },
+  {
+    "x": 0.0324459961323182,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.21
+  },
+  {
+    "x": 0.1610857913698095,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": -0.0
+  },
+  {
+    "x": 0.2376878300480383,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.05
+  },
+  {
+    "x": 0.1777693179144506,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.03
+  },
+  {
+    "x": 0.3332386825114249,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.03
+  },
+  {
+    "x": 0.3953488913787897,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.04
+  },
+  {
+    "x": 0.2707216405385288,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": -0.09
+  },
+  {
+    "x": 0.3732828996589546,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": -0.11
+  },
+  {
+    "x": 0.3008025200867308,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.04
+  },
+  {
+    "x": 0.3858944005600935,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.04
+  },
+  {
+    "x": 0.0116792218216554,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.01
+  },
+  {
+    "x": 0.0130317587969858,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 0.04
+  },
+  {
+    "x": 0.0113406015806456,
+    "y": "TOTAL_FLOW_AVAX",
+    "value": 1.0
+  }
+]
